@@ -57,8 +57,12 @@ The central complex has been associated with a set of functions - spatial naviga
 
 \section{Methods}
  \subsection{Nomenclature}
- We used an adapted version of the nomenclature system proposed by Wolff et al. 2015.   
- The name of a neuron contains, first, the neuropil closest to the cell body, followed by the neuropils in which the cell arborizes. The predoinant morphology of the arbor is abbreviated as either 'd' for dendrites, or 'b' for axonal boutons. 
+ We used an adapted version of the nomenclature system proposed by Wolff et al. 2015, a convention that provides a description of individual cell types. The first neuropil in a neuron’s name is the neuropil closest to the cell body. The second component of a cell’s name is the predominant morphology of its arbors, abbreviated as either "d" for dendrites, or "b" for boutons(axon terminals). Letters that are used in the neuron names are highlighted in color. Ovals in the schematics represent the cell bodies, solid and hatched fills denote spine and bouton arbor morphologies, respectively.
+ 
+ PB: protocerebral bridge; EB: ellipsoid body; FB:fan-shaped body; NO: noduli; d:dendrites; b: boutons. 
+ 
+ % we use a new convention that provides an intuitive description of each cell type discussed. In the nomenclature system used here, neurons are named based on their axonal paths—the domains in which they arborize—and, when possible, the predomi-nant polarity of their arbors at each synaptic junction. 
+ % CX core neurons
  
  \subsection{Connectivity}
  %%TODO:FIGURE: WE need a picture with an example here
@@ -68,6 +72,12 @@ The central complex has been associated with a set of functions - spatial naviga
  The Drosophila central brain consists of stereotyped neural lineages, developmental-structural units of macrocircuitry formed by the sibling neurons of single progenitors called neuroblasts. %%TODO:EDIT
  Using the currently identified lineages contributing to the Central Complex of the Adult Drosophila ~\citep{andrade2019developmentally}%%citations
  we filtered the neurons satisfying imposed connectivity rules (e.g of those neurons connecting to the LAL, how many come from a known CX lineage) and continued to constrain these iteratively via a back and forth manual analysis of these neurons. 
+
+
+
+
+
+
 
 \section{Results}
 \begin{table}
@@ -205,7 +215,6 @@ On the basis of neurons from lineages known to contribute to the adult central c
 
 \subsection{The larval Protocerebral Bridge (PB)}
 
-%In the adult fly, the Protocerebral Bridge (PB) is the most posterior-dorsal neuropil of the central complex and of the brain, situated across the midline of the brain between the two mushroom body calyces. %soften the developmental language
 
 In the adult \textit{Drosophila}, the PB comprises two sets of bilaterally symmetric compartments, sometimes referred to as glomeruli 1–9 ~\cite{hulse2021connectome}, positioned at the most posterior-dorsal location possible in the brain.
 
@@ -218,21 +227,24 @@ In the adult, the PB receives visual input via relay neurons (POL neurons) conve
 In addition to visual input, the adult PB also integrates olfactory inputs \citep{hulse2021connectome}, suggesting that spatial navigation is not unimodal but integrative across multiple sensory modalities.
 
 In searching for the larval PB, we expected two sets of neurons: columnar and horizontal. In larva, four central complex lineages contribute columnar neurons, a subset of which position their dendrites at a posterior-dorsal location. We could not find a central complex lineage that would contribute horizontal fibers at a posterior-dorsal location necessary to intersect and synapse onto the dendrites of the PB columnar neurons, but we found a larval lineage (DALv1) whose axons are bilateral and project to the appropriate area, and is developmentally related to another central complex lineage (DALv23).
+
 %LAURA: should we not mention the 4+4 compartments here? 
 This suggests that neurons from non-central complex lineages may be recruited temporarily during the larval period, in a pattern reported so far for the mushroom body (see Discussion; \citep{truman2023metamorphosis}). 
 
-% QUESTION TODO: do columnar neurons of the PB only contribute dendrites to the PB? 
+%Q: do columnar neurons of the PB only contribute dendrites to the PB? 
 %ANSWER: Tanya wolff's papers say yes. Hulse et al fig 29 supplement 1 & Fig 33:  PFNm_a, PFNm_b 
 %unclear where the pfn_m connection is => answer is yes 
 
 
 
 
-Among neurons of the DALv1 lineagel, 4 left-right pairs (named HF-PB for "Horizontal Fiber PB") project their axons bilaterally and across the dendrites of the columnar neurons.
+Among neurons of the DALv1 lineage, 4 left-right pairs (named HF-PB for "Horizontal Fiber PB") project their axons bilaterally and across the dendrites of the columnar neurons.
 3 of the 4 pairs present an unusual axon configuration: first, they project contralaterally to drop their first output synapses, with the axon then crossing the midline a second time to return back to the same ipsilaterally corresponding location to again drop presynaptic sites (\ref{FigureX}).
+
 This peculiar axon configuration is unique among all neurons of the entire brain of the larva~(\citep{winding2023}) and suggestive of potentially a delay line for comparing left-right sensory inputs.
 The 4th pair first drops presynaptic sites ipsilaterally and then its axon crosses the midline until reaching the corresponding contralateral location to synapse again~(\ref{FigureX}).
 % Relative to the root of their dendritic tree, which is ipsilateral, the first set of output synapses are found contralaterally. Then the axon crosses the midline a second time, returning to the ipsilateral hemisphere to establish more output synapses in a spatially symmetric way to the contralateral set of output synapses.
+
 The presynaptic outputs of DALv1 neurons are symmetric, in that they contact the same homologous pairs of left-right neurons which are predominantly neurons of the columnar system ~(\ref{FigureX}).
 The axons of these 4 pairs of HF-PB neurons are tiled dorso-ventrally, falling into two bilaterally symmetric groups which we interpret as defining 2 + 2 bilaterally arranged PB compartments, each innervated by 2 pairs of axons. % figure PB compartments
 
