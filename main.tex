@@ -57,25 +57,32 @@ The central complex has been associated with a set of functions - spatial naviga
 
 \section{Methods}
  \subsection{Nomenclature}
- We used an adapted version of the nomenclature system proposed by Wolff et al. 2015, a convention that provides a description of individual cell types. The first neuropil in a neuron’s name is the neuropil closest to the cell body. The second component of a cell’s name is the predominant morphology of its arbors, abbreviated as either "d" for dendrites, or "b" for boutons(axon terminals). Letters that are used in the neuron names are highlighted in color. Ovals in the schematics represent the cell bodies, solid and hatched fills denote spine and bouton arbor morphologies, respectively.
+ We used an adapted version of the nomenclature system proposed by Wolff et al. 2015, a convention that provides a description of individual cell types. The first neuropil in a neuron’s name is the neuropil closest to the cell body. The second component of a cell’s name is the predominant morphology of its arbors, abbreviated as either "d" for dendrites, or "b" for boutons(axon terminals). 
  
- PB: protocerebral bridge; EB: ellipsoid body; FB:fan-shaped body; NO: noduli; d:dendrites; b: boutons. 
+ %Ovals in the schematics represent the cell bodies, solid and hatched fills denote spine and bouton arbor morphologies, respectively.
+ %PB: protocerebral bridge; EB: ellipsoid body; FB:fan-shaped body; NO: noduli; d:dendrites; b: boutons. 
+ % we use a new convention that provides an intuitive description of each cell type discussed. In the nomenclature system used here, neurons are named based on their axonal paths—the domains in which they arborize—and, when possible, the predomi-nant polarity of their arbors at each synaptic junction.
  
- % we use a new convention that provides an intuitive description of each cell type discussed. In the nomenclature system used here, neurons are named based on their axonal paths—the domains in which they arborize—and, when possible, the predomi-nant polarity of their arbors at each synaptic junction. 
- % CX core neurons
+ 
+ % CX core neurons - should we add to nomenclature?
  
  \subsection{Connectivity}
- %%TODO:FIGURE: WE need a picture with an example here
-    Using stereotypical Central Complex connectivity patterns identified in the adult, such as visual input processing  of polarized light into the Protocerebral bridge and the Ellipsoid Body Ring neurons ~\citep{hardcastle2021visual, lin2013comprehensive, hulse2021connectome}, connectivity between the Mushroom Body and the Fan-Shaped Body, and more (see results). 
+    Using stereotypical Central Complex connectivity patterns identified in the adult, such as visual input processing  of polarized light into the Protocerebral bridge and the Ellipsoid Body Ring neurons ~\citep
+    {hardcastle2021visual, lin2013comprehensive, hulse2021connectome}, connectivity between the Mushroom Body and the Fan-Shaped Body, and more (see results). 
+    We additionally used conectivity patterns within the central complex, between individual neuropils, and their connectivity with various accessory structures(such as the Lateral Accessory Lobe) and other established anatomical structures that exist in both the adult and larval stage of this animal (Musrhoom Body, Lateral Horn,Antennal Lobe, Olfactory Lobe).
 
  \subsection{Lineage}
- The Drosophila central brain consists of stereotyped neural lineages, developmental-structural units of macrocircuitry formed by the sibling neurons of single progenitors called neuroblasts. %%TODO:EDIT
+ The Drosophila central brain consists of stereotyped neuronal and glial lineages,originating from stem cells (neuroblasts) that appear in the early embryo. 
+ %developmental-structural units of macrocircuitry formed by the sibling neurons of single progenitors called neuroblasts.
+ Embryonic neuroblasts express specific combinations of regulatory genes, which provide each lineage with the information needed to shape the connectivity of its neurons 
+
+ 
  Using the currently identified lineages contributing to the Central Complex of the Adult Drosophila ~\citep{andrade2019developmentally}%%citations
  we filtered the neurons satisfying imposed connectivity rules (e.g of those neurons connecting to the LAL, how many come from a known CX lineage) and continued to constrain these iteratively via a back and forth manual analysis of these neurons. 
 
 
 
-
+ A hallmark of the Drosophila brain is its composition of invariant neuronal and glial lineages, originating from stem cells (neuroblasts) that appear in the early embryo. Embryonic neuroblasts express specific combinations of regulatory genes, which are thought to provide each lineage with the information needed to shape the connectivity of its neurons [12]. As a result, lineages become structural modules: Neurons of the same lineage generally project together in one or two fiber tracts, and form synapses in specific, spatially restricted brain compartments. For example, the R-neurons of the ellipsoid body are derived from one lineage, DALv2 (also called EBa1; [11, 13–16]). The columnar neurons of the CX are produced by four pairs of lineages located in the dorso-medial brain, called DM1/DPMm1, DM2/DPMpm1, DM3/DPMpm2, DM4/CM4 (called DM1-DM4 henceforward; [15–17]). The spatial pattern of these lineages is reflected in the position at which their corresponding tracts enter and terminate within the CX. In this manner, the four lineages subdivide the CX neuropils into four evenly sized quadrants, as illustrated in Figure 1.
 
 
 
@@ -237,7 +244,6 @@ This suggests that neurons from non-central complex lineages may be recruited te
 
 
 
-
 Among neurons of the DALv1 lineage, 4 left-right pairs (named HF-PB for "Horizontal Fiber PB") project their axons bilaterally and across the dendrites of the columnar neurons.
 3 of the 4 pairs present an unusual axon configuration: first, they project contralaterally to drop their first output synapses, with the axon then crossing the midline a second time to return back to the same ipsilaterally corresponding location to again drop presynaptic sites (\ref{FigureX}).
 
@@ -259,11 +265,6 @@ The dendrites of these 4 pairs of DALv1 neurons (HF-PB) are ipsilateral and dors
 % MB2ON-175 & 48 & 208 
 % given the PB1-4 compartments, which ones are connected to the MBONs, and the CNs. 175 targets one compartment, 208 targets another.  The pattern is that CNs connect to one compartment of the PB while simultaneously connecting to another CN that connects to the opposite compartment - there could be a gating mechanism. 
 %MB2ON 202 - feedback from the NO to the PB dalv1 
-
-
-
-
-
 
 
 In the larva, the columnar system consists of neurons from 4 central complex lineages (DPMpm1, DPMpm2, DPMm1 and CM4) that also generate the columnar neurons of the adult (DM1, DM2, DM3 and DM4, correspondingly).
