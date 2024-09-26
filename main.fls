@@ -194,23 +194,23 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
-INPUT ./Images/CX_new.png
-INPUT ./Images/CX_new.png
-INPUT ./Images/CX_new.png
-INPUT ./Images/CX_new.png
-INPUT ./Images/CX_new.png
-INPUT ./Images/Figure neurons/cx_orthographic.pdf
-INPUT ./Images/Figure neurons/cx_orthographic.pdf
-INPUT ./Images/Figure neurons/cx_orthographic.pdf
-INPUT ./Images/Figure neurons/cx_orthographic.pdf
-INPUT ./Images/Figure neurons/cx_orthographic.pdf
-INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
-INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
-INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
-INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
-INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT ./Images/CX_new.png
+INPUT ./Images/CX_new.png
+INPUT ./Images/CX_new.png
+INPUT ./Images/CX_new.png
+INPUT ./Images/CX_new.png
+INPUT ./Images/Figure neurons/cx_orthographic.pdf
+INPUT ./Images/Figure neurons/cx_orthographic.pdf
+INPUT ./Images/Figure neurons/cx_orthographic.pdf
+INPUT ./Images/Figure neurons/cx_orthographic.pdf
+INPUT ./Images/Figure neurons/cx_orthographic.pdf
+INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
+INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
+INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
+INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
+INPUT ./Images/Figure neurons/CentralComplexNeurons.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd

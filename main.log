@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.27)  23 SEP 2024 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.27)  26 SEP 2024 09:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,217 +468,220 @@ Package natbib Warning: Citation `hartenstein2015lineage' on page 2 undefined on
 Package natbib Warning: Citation `truman1999origins' on page 2 undefined on input line 55.
 
 [2]
-Overfull \hbox (10.15662pt too wide) in paragraph at lines 62--63
-[]\OT1/ppl/m/n/10 PB: pro-to-cere-bral bridge; EB: el-lip-soid body; FB:fan-shaped body; NO: noduli;
+
+Package natbib Warning: Citation `hardcastle2021visual' on page 3 undefined on input line 71.
+
+
+Package natbib Warning: Citation `lin2013comprehensive' on page 3 undefined on input line 71.
+
+
+Package natbib Warning: Citation `hulse2021connectome' on page 3 undefined on input line 71.
+
+
+Overfull \hbox (5.6459pt too wide) in paragraph at lines 75--78
+\OT1/ppl/m/n/10 Em-bry-onic neu-rob-lasts ex-press spe-cific com-bi-na-tions of reg-u-la-tory genes, which
  []
 
 
-Package natbib Warning: Citation `hardcastle2021visual' on page 3 undefined on input line 69.
+Package natbib Warning: Citation `andrade2019developmentally' on page 3 undefined on input line 80.
 
 
-Package natbib Warning: Citation `lin2013comprehensive' on page 3 undefined on input line 69.
-
-
-Package natbib Warning: Citation `hulse2021connectome' on page 3 undefined on input line 69.
-
-
-Package natbib Warning: Citation `andrade2019developmentally' on page 3 undefined on input line 73.
-
-
-Overfull \hbox (23.77542pt too wide) in paragraph at lines 72--75
-\OT1/ppl/m/n/10 The Drosophila cen-tral brain con-sists of stereo-typed neu-ral lin-eages, developmental-
+Overfull \hbox (7.1075pt too wide) in paragraph at lines 85--86
+\OT1/ppl/m/n/10 the dorso-medial brain, called DM1/DPMm1, DM2/DPMpm1, DM3/DPMpm2,
  []
 
+[3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 85.
+(Font)              <7> on input line 92.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 85.
+(Font)              <5> on input line 92.
 
-LaTeX Warning: Float too large for page by 26.42705pt on input line 134.
 
-<Images/CX_new.png, id=18, 941.5175pt x 678.535pt>
+LaTeX Warning: Float too large for page by 26.42705pt on input line 141.
+
+<Images/CX_new.png, id=26, 941.5175pt x 678.535pt>
 File: Images/CX_new.png Graphic file (type png)
 <use Images/CX_new.png>
-Package pdftex.def Info: Images/CX_new.png  used on input line 183.
+Package pdftex.def Info: Images/CX_new.png  used on input line 190.
 (pdftex.def)             Requested size: 341.43306pt x 246.06358pt.
 
 
 pdfTeX warning: pdflatex (file ./Images/Figure neurons/cx_orthographic.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Images/Figure neurons/cx_orthographic.pdf, id=20, 1881.0275pt x 809.0225pt>
+<Images/Figure neurons/cx_orthographic.pdf, id=28, 1881.0275pt x 809.0225pt>
 File: Images/Figure neurons/cx_orthographic.pdf Graphic file (type pdf)
 <use Images/Figure neurons/cx_orthographic.pdf>
-Package pdftex.def Info: Images/Figure neurons/cx_orthographic.pdf  used on input line 190.
+Package pdftex.def Info: Images/Figure neurons/cx_orthographic.pdf  used on input line 197.
 (pdftex.def)             Requested size: 341.43306pt x 146.83989pt.
 
 
 pdfTeX warning: pdflatex (file ./Images/Figure neurons/CentralComplexNeurons.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Images/Figure neurons/CentralComplexNeurons.pdf, id=21, 3172.0507pt x 4936.95418pt>
+<Images/Figure neurons/CentralComplexNeurons.pdf, id=29, 3172.0507pt x 4936.95418pt>
 File: Images/Figure neurons/CentralComplexNeurons.pdf Graphic file (type pdf)
 <use Images/Figure neurons/CentralComplexNeurons.pdf>
-Package pdftex.def Info: Images/Figure neurons/CentralComplexNeurons.pdf  used on input line 201.
+Package pdftex.def Info: Images/Figure neurons/CentralComplexNeurons.pdf  used on input line 208.
 (pdftex.def)             Requested size: 341.43306pt x 531.39023pt.
 
-LaTeX Warning: Float too large for page by 75.5502pt on input line 204.
+LaTeX Warning: Float too large for page by 75.5502pt on input line 211.
 
 
-Overfull \hbox (6.97043pt too wide) in paragraph at lines 211--211
+Overfull \hbox (6.97043pt too wide) in paragraph at lines 218--218
 []\OT1/ppl/b/n/12 Correspondence be-tween lar-val and adult neu-ronal lin-eages 
  []
 
 
-Package natbib Warning: Citation `hulse2021connectome' on page 3 undefined on input line 219.
+Package natbib Warning: Citation `hulse2021connectome' on page 4 undefined on input line 226.
+
+[4 <./Images/CX_new.png>] [5] [6 <./Images/Figure neurons/cx_orthographic.pdf>] [7 <./Images/Figure neurons/CentralComplexNeurons.pdf>]
+
+Package natbib Warning: Citation `wolff2015neuroarchitecture' on page 8 undefined on input line 229.
 
 
-Package natbib Warning: Citation `wolff2015neuroarchitecture' on page 3 undefined on input line 222.
+Package natbib Warning: Citation `wolff2015neuroarchitecture' on page 8 undefined on input line 229.
 
 
-Package natbib Warning: Citation `wolff2015neuroarchitecture' on page 3 undefined on input line 222.
+Package natbib Warning: Citation `andrade2019developmentally' on page 8 undefined on input line 229.
 
 
-Package natbib Warning: Citation `andrade2019developmentally' on page 3 undefined on input line 222.
-
-[3] [4] [5] [6 <./Images/CX_new.png> <./Images/Figure neurons/cx_orthographic.pdf>] [7 <./Images/Figure neurons/CentralComplexNeurons.pdf>]
-
-Package natbib Warning: Citation `heinze2009transformation' on page 8 undefined on input line 224.
+Package natbib Warning: Citation `heinze2009transformation' on page 8 undefined on input line 231.
 
 
-Package natbib Warning: Citation `hulse2021connectome' on page 8 undefined on input line 227.
+Package natbib Warning: Citation `hulse2021connectome' on page 8 undefined on input line 234.
 
 
-Package natbib Warning: Citation `truman2023metamorphosis' on page 8 undefined on input line 232.
-
-
-LaTeX Warning: Reference `FigureX' on page 8 undefined on input line 242.
-
-
-Package natbib Warning: Citation `winding2023' on page 8 undefined on input line 244.
-
-
-LaTeX Warning: Reference `FigureX' on page 8 undefined on input line 245.
+Package natbib Warning: Citation `truman2023metamorphosis' on page 8 undefined on input line 239.
 
 
 LaTeX Warning: Reference `FigureX' on page 8 undefined on input line 248.
 
 
-Package natbib Warning: Citation `hulse2021connectome' on page 8 undefined on input line 251.
+Package natbib Warning: Citation `winding2023' on page 8 undefined on input line 250.
 
 
-Package natbib Warning: Citation `eschbach2021' on page 8 undefined on input line 251.
+LaTeX Warning: Reference `FigureX' on page 8 undefined on input line 251.
 
 
-Package natbib Warning: Citation `EsbachFushiki2021' on page 8 undefined on input line 251.
+LaTeX Warning: Reference `FigureX' on page 8 undefined on input line 254.
 
 [8]
 
-LaTeX Warning: Reference `FigureX' on page 9 undefined on input line 271.
+Package natbib Warning: Citation `hulse2021connectome' on page 9 undefined on input line 257.
 
 
-LaTeX Warning: Reference `FigureX' on page 9 undefined on input line 271.
+Package natbib Warning: Citation `eschbach2021' on page 9 undefined on input line 257.
 
 
-Package natbib Warning: Citation `wolff2015neuroarchitecture; wolff2018; hulse2021connectome' on page 9 undefined on input line 272.
+Package natbib Warning: Citation `EsbachFushiki2021' on page 9 undefined on input line 257.
 
 
-LaTeX Warning: Reference `FigureX' on page 9 undefined on input line 273.
+LaTeX Warning: Reference `FigureX' on page 9 undefined on input line 272.
 
 
-Overfull \hbox (2.14626pt too wide) in paragraph at lines 269--274
+LaTeX Warning: Reference `FigureX' on page 9 undefined on input line 272.
+
+
+Package natbib Warning: Citation `wolff2015neuroarchitecture; wolff2018; hulse2021connectome' on page 9 undefined on input line 273.
+
+
+LaTeX Warning: Reference `FigureX' on page 9 undefined on input line 274.
+
+
+Overfull \hbox (2.14626pt too wide) in paragraph at lines 270--275
 \OT1/ppl/m/n/10 Lar-val colum-nar neu-rons present small, nar-row den-drites cir-cum-scribed within
  []
 
 
-Package natbib Warning: Citation `omoto2018neuronal' on page 9 undefined on input line 289.
+Package natbib Warning: Citation `omoto2018neuronal' on page 9 undefined on input line 290.
 
 
-Package natbib Warning: Citation `hulse2021connectome' on page 9 undefined on input line 299.
+Package natbib Warning: Citation `hulse2021connectome' on page 9 undefined on input line 300.
 
 [9]
 
-Package natbib Warning: Citation `heinze2017unraveling' on page 10 undefined on input line 312.
+Package natbib Warning: Citation `heinze2017unraveling' on page 10 undefined on input line 313.
 
 
-LaTeX Warning: Reference `lineages' on page 10 undefined on input line 312.
+LaTeX Warning: Reference `lineages' on page 10 undefined on input line 313.
 
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 320.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 321.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [10]
 
-Package natbib Warning: Citation `MISSING' on page 11 undefined on input line 326.
+Package natbib Warning: Citation `MISSING' on page 11 undefined on input line 327.
 
 
-Package natbib Warning: Citation `lin2013comprehensive' on page 11 undefined on input line 327.
+Package natbib Warning: Citation `lin2013comprehensive' on page 11 undefined on input line 328.
 
 
-Package natbib Warning: Citation `wolff2018neuroarchitecture' on page 11 undefined on input line 350.
+Package natbib Warning: Citation `wolff2018neuroarchitecture' on page 11 undefined on input line 351.
 
 
-Package natbib Warning: Citation `hulse2021connectome' on page 11 undefined on input line 350.
+Package natbib Warning: Citation `hulse2021connectome' on page 11 undefined on input line 351.
 
 
-Package natbib Warning: Citation `andrade2019developmentally' on page 11 undefined on input line 350.
+Package natbib Warning: Citation `andrade2019developmentally' on page 11 undefined on input line 351.
 
 
-Package natbib Warning: Citation `wolff2015neuroarchitecture' on page 11 undefined on input line 357.
+Package natbib Warning: Citation `wolff2015neuroarchitecture' on page 11 undefined on input line 358.
 
 
-Package natbib Warning: Citation `hulse2021connectome' on page 11 undefined on input line 357.
+Package natbib Warning: Citation `hulse2021connectome' on page 11 undefined on input line 358.
 
 
-Package natbib Warning: Citation `wolff2018neuroarchitecture' on page 11 undefined on input line 357.
+Package natbib Warning: Citation `wolff2018neuroarchitecture' on page 11 undefined on input line 358.
 
 
-Package natbib Warning: Citation `hulse2021connectome' on page 11 undefined on input line 357.
+Package natbib Warning: Citation `hulse2021connectome' on page 11 undefined on input line 358.
 
 [11]
 
-Package natbib Warning: Citation `heinze2009transformation' on page 12 undefined on input line 414.
+Package natbib Warning: Citation `heinze2009transformation' on page 12 undefined on input line 415.
 
 
-Package natbib Warning: Citation `lin2013comprehensive' on page 12 undefined on input line 414.
+Package natbib Warning: Citation `lin2013comprehensive' on page 12 undefined on input line 415.
 
 
-Package natbib Warning: Citation `heinze2017unraveling' on page 12 undefined on input line 416.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 416.
+Package natbib Warning: Citation `heinze2017unraveling' on page 12 undefined on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 416.
+(hyperref)                removing `\begingroup' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 416.
+(hyperref)                removing `\let' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\NAT@ctype' on input line 416.
+(hyperref)                removing `\<let>-command' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 416.
+(hyperref)                removing `\NAT@ctype' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\let' on input line 416.
+(hyperref)                removing `\z@' on input line 417.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 416.
+(hyperref)                removing `\let' on input line 417.
 
 
-Package natbib Warning: Citation `MISSING' on page 12 undefined on input line 418.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 417.
 
 
-LaTeX Warning: Reference `fig:cxneurons' on page 12 undefined on input line 425.
+Package natbib Warning: Citation `MISSING' on page 12 undefined on input line 419.
 
 
-LaTeX Warning: Reference `sensoryinputs' on page 12 undefined on input line 425.
+LaTeX Warning: Reference `fig:cxneurons' on page 12 undefined on input line 426.
 
 
-LaTeX Warning: Reference `inputsoutputs' on page 12 undefined on input line 425.
+LaTeX Warning: Reference `sensoryinputs' on page 12 undefined on input line 426.
+
+
+LaTeX Warning: Reference `inputsoutputs' on page 12 undefined on input line 426.
 
 [12] (./main.bbl)
 
@@ -708,15 +711,15 @@ Package rerunfilecheck Info: Checksums for `main.out':
 Here is how much of TeX's memory you used:
  12966 strings out of 474116
  221524 string characters out of 5743682
- 1972187 words of memory out of 5000000
+ 1970187 words of memory out of 5000000
  35101 multiletter control sequences out of 15000+600000
  569551 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,11n,79p,1459b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,11n,79p,1459b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (13 pages, 12826517 bytes).
+Output written on main.pdf (13 pages, 12828070 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
+ 213 PDF objects out of 1000 (max. 8388607)
  136 compressed objects within 2 object streams
  37 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
