@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 0 -1
-  "./References.bib" 1716819494 7651 ba4b6f2e49c21e97c7288bfc93a3f12d ""
+["bibtex main"] 1729858504.84023 "main.aux" "main.bbl" "main" 1736864107.98631 2
+  "./References.bib" 1729849638.44831 8052 5a38d47f8dbe717396fe6dd6e98320f0 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1727339785.11249 7977 8e36ae9abeb83c7559f96a05082842b0 "pdflatex"
+  "main.aux" 1736864107.6614 8366 a5144d14f2764c31a4b91aa8a30ee573 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1727339784.05991 "/Users/lauralungu/Desktop/Latex/The larval Central Complex/main.tex" "main.pdf" "main" 1727339785.53439 2
-  "/Users/lauralungu/Desktop/Latex/The larval Central Complex/main.tex" 1727339782.54555 41086 d8cb480d208fc7c6647306e12c6f603d ""
+["pdflatex"] 1736864106.61787 "/Users/lauralungu/Desktop/Latex/The larval Central Complex/main.tex" "main.pdf" "main" 1736864107.98649 2
+  "/Users/lauralungu/Desktop/Latex/The larval Central Complex/main.tex" 1736864104.47306 44925 ca5f014db4a69528c64cd165125334e3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -114,10 +114,10 @@
   "Images/CX_new.png" 1716819494 66508 2f413fab57ca6a655e52ec765920af63 ""
   "Images/Figure neurons/CentralComplexNeurons.pdf" 1719551909.53506 11525243 9dff39ba1d5d512d733b7d822ef65a93 ""
   "Images/Figure neurons/cx_orthographic.pdf" 1719574398.71589 1277053 e3cd91b8a0e43f1374b12e377d03979f ""
-  "main.aux" 1727339785.11249 7977 8e36ae9abeb83c7559f96a05082842b0 "pdflatex"
-  "main.bbl" 1727132334.11197 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
-  "main.out" 1727339785.11382 2930 b40c9bc9acc324c4db0309b1223ac393 "pdflatex"
-  "main.tex" 1727339782.54555 41086 d8cb480d208fc7c6647306e12c6f603d ""
+  "main.aux" 1736864107.6614 8366 a5144d14f2764c31a4b91aa8a30ee573 "pdflatex"
+  "main.bbl" 1729858504.97112 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
+  "main.out" 1736864107.66249 3617 4530dd0375b22de27a11d2f88179abc5 "pdflatex"
+  "main.tex" 1736864104.47306 44925 ca5f014db4a69528c64cd165125334e3 ""
   (generated)
   "main.aux"
   "main.log"
